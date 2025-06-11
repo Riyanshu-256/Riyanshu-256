@@ -1,7 +1,7 @@
 <!-- 🚀 Welcome Banner -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Hey+there!+I’m+Riyanshu+Sharma+🎓;CSE+Student+@+UCET+Hazaribagh;Java+%26+DSA+Practitioner+🧠;Web+Dev+%2B+Cloud+Explorer+☁️;App+Development+Enthusiast+📱;Code.+Build.+Iterate.+Repeat+🔥" 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF4C4C&center=true&vCenter=true&width=600&lines=Hey+there!+I’m+Riyanshu+Sharma+🎓;CSE+Student+@+UCET+Hazaribagh;Java+%26+DSA+Practitioner+🧠;Web+Dev+%2B+Cloud+Explorer+☁️;App+Development+Enthusiast+📱;Code.+Build.+Iterate.+Repeat+🔥" 
     alt="Typing SVG" 
   />
 </p>
@@ -78,11 +78,11 @@ And I’m currently brewing something new — an **API-first product** that’ll
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharmariyanshuu&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sharmariyanshuu&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharmariyanshu&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sharmariyanshu&theme=radical&hide_border=true" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmariyanshuu&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmariyanshu&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
