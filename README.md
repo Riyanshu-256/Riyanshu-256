@@ -1,101 +1,120 @@
 <!-- 🚀 Welcome Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hey+there!+I’m+Riyanshu+Sharma+👋;CSE+Student+@+UCET+Hazaribagh;Java+%26+DSA+Learner+🧠;A+Passionate+Tech+Explorer+🚀;Full-Stack+Web+Dev+Enthusiast+🌐;Aspiring+App+Developer+📱;Cloud+Computing+Explorer+☁️" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Hey+there!+I’m+Riyanshu+Sharma+🎓;CSE+Student+@+UCET+Hazaribagh;Java+%26+DSA+Practitioner+🧠;Web+Dev+%2B+Cloud+Explorer+☁️;App+Development+Enthusiast+📱;Code.+Build.+Iterate.+Repeat+🔥" 
+    alt="Typing SVG" 
+  />
 </p>
 
 ---
+---
 
-## 🚀 **About Me**  
+## 👋 **About Me**
 
-🔹 Hi, I'm **Riyanshu Sharma**, a 2nd-semester B.Tech CSE student at **UCET Hazaribagh**, passionate about **software development**, **problem solving**, and turning ideas into **real-world applications**.  
-🔹 I am on a mission to **transform ideas into reality through code** while constantly evolving as a **developer and innovator**.  
-🔹 My core strengths lie in **programming, development, and tech exploration** as I prepare myself for the **ever-changing world of technology**.  
+Hey! I’m **Riyanshu Sharma**, a Computer Science student at **UCET Hazaribagh**, and someone who lives and breathes **code, curiosity, and consistency**.
 
-🎯 **Currently Working On:**  
-- **Mastering Java & DSA** to become a proficient problem solver 🧠  
-- **Building real-world projects** in Web Development & Java 🚀  
-- **Contributing to Open Source** and engaging in Hackathons 🌍  
-- **Exploring Cloud Computing & App Development** to broaden my skill set ☁️  
-
-💡 **I believe in continuous learning, innovation, and collaboration.** Let's **code, build, and grow together!** 💡  
+Growing up in Jharkhand, I didn't always have access to top-tier resources—but that never stopped me from pushing the limits of what I could build. From diving deep into Java and DSA to exploring full-stack web dev and cloud tech, every line of code I write is a step closer to mastering this ever-evolving tech universe.
 
 ---
 
-## 💻 **Tech Stack & Skills**  
+## ⚡ **What Drives Me**
 
-### 🔥 **Programming Languages**  
-- 🚀 **C** – Strong foundation in structured programming & problem-solving  
-- 🚀 **Java** – OOP, DSA, Java SE & beyond  
+> I don’t just follow tutorials — I break them down, rebuild them, and make them mine.
 
-### 🌐 **Web Development**  
-- 🎨 **HTML & CSS** – Crafting visually appealing & responsive UIs  
-- 🖥 **JavaScript (in progress)** – Adding interactivity to web applications  
+I’m a strong believer in **"build-first" learning**. That means:  
+- Taking a problem,  
+- Writing the logic,  
+- Testing the limits,  
+- And shipping it—bugs, features, polish and all.  
 
-### 🛠 **Technologies & Tools**  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-
-### 🚀 **Currently Exploring**  
-- **Full-Stack Web Development** (MERN, Java-based frameworks)  
-- **App Development** (Dart/Flutter, Android Development)
-- **java Development** (Udemy Course)
-- **Data Structures and Algorithms** (Geeks for Geeks Self-Paced)
+Every project I touch is more than just code—it's a reflection of hours spent debugging, structuring logic, securing APIs, and refining UX until it *feels right*.
 
 ---
 
-## 🚀 Current Learning & Focus
+## 🧠 **How I Learn**
 
-| Area                  | Details                                                                 |
-|-----------------------|-------------------------------------------------------------------------|
-| 🧠 Java & DSA         | Learning via Udemy (Tim Buchalka) + GFG Self-Paced Course               |
-| 🌐 Web Development    | HTML, CSS mastery, and JavaScript fundamentals                          |
-| 💼 Java Projects      | Real-world Java applications & mini-tools [Java Projects Repo](https://github.com/sourav-kumar-357/Java-Projects) |
-| 🔜 App Dev & Cloud    | Exploring Android Development & Cloud Computing basics                  |
+Whether it’s Java OOP or JavaScript ES6, async flows or backend auth systems—I follow a loop that works:
+
+**Learn → Apply → Break → Fix → Repeat**
+
+That’s how I:
+- Understood recursion not just in theory, but by solving real-time DSA challenges.
+- Built REST APIs with Node.js that go beyond CRUD and into security, auth, and folder structuring.
+- Crafted UI layouts that are responsive, accessible, and actually enjoyable to use.
+
+And I’m not stopping there. I’m moving deeper into:
+- **React + Next.js** for scalable frontend systems  
+- **MongoDB + Mongoose** for flexible and fast data handling  
+- **CI/CD pipelines** for smooth, production-grade deployments  
 
 ---
 
-## **📌 My GitHub Stats & Activity**  
+## ⚙️ **My Stack: The Tools That Build My World**
+
+I keep things modern but practical.
+
+On the frontend, I move fast with **HTML, CSS, JavaScript**, and dive deep into **React** to architect clean and reusable components. I’m transitioning into **Next.js** to add server-side rendering and better SEO to my stack.
+
+On the backend, **Node.js and Express** help me ship APIs that are secure, modular, and lightning fast. I use **JWT and Bcrypt** to lock things down, and **MongoDB** for handling dynamic data with Mongoose models that actually make sense.
+
+For testing and iteration, **Postman**, **Thunder Client**, and **MongoDB Compass** are always running.  
+Version control? **Git + GitHub** — no compromise there.  
+My editor of choice? **VS Code**, fully customized for speed and clarity.
+
+---
+
+## 🧱 **What I’ve Built & Learned (So Far)**
+
+I’ve worked on **full backend systems** with secure authentication, protected routes, token management, and modular folder structures — and believe me, nothing teaches you backend better than wiring up JWT flows and watching the 403s roll in until you fix them.
+
+I've created **responsive landing pages** that look sharp on any screen, learning the magic of Flexbox, Grid, and media queries in the process. Micro-interactions, smooth transitions, and UI logic? That’s where CSS starts feeling like art.
+
+In Java, I’ve built **mini apps and practice tools** that helped me master OOP principles, exception handling, and modular logic. The kind of foundation that makes you write better code no matter the language.
+
+And I’m currently brewing something new — an **API-first product** that’ll serve as my public proof of clean, testable, and production-ready backend architecture.
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharmariyanshu&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=sourav-kumar-357&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharmariyanshuu&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sharmariyanshuu&theme=radical&hide_border=true" width="48%" />
 </p>
-
-<!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmariyanshu&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmariyanshuu&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 🏗 Featured Repositories
+## 🎯 2024–25 Roadmap
 
-- 📂 **[Java-Learning-Codes](https://github.com/Sharmariyanshu/Java-Learning-Codes)** — All Java theory + practice from Udemy  
-- 📂 **[DSA-GFG](https://github.com/Sharmariyanshu/DSA-GFG)** — My complete GeeksforGeeks self-paced course journey  
-- 🌐 **[web-dev-projects](https://github.com/Sharmariyanshu/web-dev-projects)** — Real frontend websites and UI components  
-- 💻 **[Java-Projects](https://github.com/Sharmariyanshu/Java-Projects)** — Java apps using OOPs and Java SE concepts  
-
----
-
-💡 Explore more on my **[GitHub Repositories](https://github.com/Sharmariyanshu)**  
-
----
-
-## 🎯 **My Goals & Aspirations**  
-✔ **Become a Java & DSA expert** for coding interviews & real-world problem-solving  
-✔ **Build full-stack web applications** with modern frameworks & best practices  
-✔ **Participate in hackathons & open-source contributions** to gain hands-on experience  
-✔ **Land a high-paying tech job** in a domain that aligns with my skills and interests  
-✔ **Connect with passionate developers** and contribute to the global tech community  
+- ✅ Java + DSA deep dive  
+- 🔐 Secure full-stack apps  
+- ⚛️ Master React + Next.js  
+- 🌐 Build & deploy real-world APIs  
+- 🏆 Crack 2–3 major hackathons  
+- 💼 Land an internship  
+- 🌍 Contribute to open source  
+- 🔄 Deploy with CI/CD pipelines  
+- 🧠 Keep learning, keep building  
 
 ---
 
-## **🌍 Let's Connect & Collaborate!**  
-I’m always open to discussions, collaborations, and networking. If you share a passion for **coding, web development, or tech innovations**, feel free to reach out! 🚀  
+## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://github.com/Sharmariyanshu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Sharmariyanshuu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-🚀 **"Code, innovate, and never stop exploring!"** 🚀  
+---
+
+## 💬 Final Words
+
+Thanks for dropping by!
+
+Whether you’re here to collaborate, learn, or just scroll through — I’m always up for **tech talk, project collabs, or a good old debugging war story**.
+
+Let’s build something epic.
+
