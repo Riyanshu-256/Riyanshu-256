@@ -63,6 +63,7 @@ Here’s a look at the technologies and tools I’m currently using to build, de
   
   🎨 Visual Studio Code – My go-to code editor with helpful extensions
 
+
 🖥️ Backend Development
 
   🟢 Node.js – JavaScript runtime for building fast, scalable server-side applications
@@ -71,17 +72,20 @@ Here’s a look at the technologies and tools I’m currently using to build, de
   
   🧪 Postman – Powerful API testing and collaboration tool
 
+
 🧪 Web Projects
 
   🎲 Guess My Number, 🐷 Pig Game, 🏦 Bankist App – Hands-on projects using core JS & DOM
   
   🖼️ Built engaging UIs with transitions, game logic, and form handling
 
+
 🛠️ Version Control & Collaboration
 
   🐙 Git & GitHub – Version control, branching, pull requests, open-source contributions
   
   🤝 Team Collaboration – Worked with peers using GitHub Projects & issues
+
 
 🧠 Learning & Growth
 
