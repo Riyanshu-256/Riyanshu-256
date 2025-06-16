@@ -56,25 +56,37 @@ Here’s a look at the technologies and tools I’m currently using to build, de
 🧱 Frontend Development
 
   🟠 HTML5 – Structured, semantic, and accessible markup
-  🔵 CSS3 – Responsive design with Flexbox, Grid, animations 💅
-  🟡 JavaScript (ES6+) – Interactive UI, DOM manipulation, event handling ⚡
+  
+  🔵 CSS3 – Responsive design with Flexbox, Grid, animations
+  
+  🟡 JavaScript (ES6+) – Interactive UI, DOM manipulation, event handling
+  
   🎨 Visual Studio Code – My go-to code editor with helpful extensions
 
 🖥️ Backend Development
+
   🟢 Node.js – JavaScript runtime for building fast, scalable server-side applications
+  
   ⚙️ Express.js – Minimal and flexible Node.js web framework for API development
+  
   🧪 Postman – Powerful API testing and collaboration tool
 
 🧪 Web Projects
+
   🎲 Guess My Number, 🐷 Pig Game, 🏦 Bankist App – Hands-on projects using core JS & DOM
+  
   🖼️ Built engaging UIs with transitions, game logic, and form handling
 
 🛠️ Version Control & Collaboration
+
   🐙 Git & GitHub – Version control, branching, pull requests, open-source contributions
+  
   🤝 Team Collaboration – Worked with peers using GitHub Projects & issues
 
 🧠 Learning & Growth
+
   📘 Constantly learning through documentation, YouTube, and course projects
+  
   🎯 Focused on building strong fundamentals before moving to frameworks like React
 
 
@@ -83,31 +95,54 @@ Here’s a look at the technologies and tools I’m currently using to build, de
 ## 🧱 **What I’ve Built & Learned (So Far)**
 As a passionate Computer Science student, I’ve been diving deep into the world of web development, steadily building a strong foundation. Here's a summary of what I’ve explored and created so far:
 
+
 📝 HTML 
+
    🔸 <div>, <span>, <section> — structure & layout
+   
    📌 Semantic Tags – <header>, <main>, <footer>
+   
    🧭 Accessibility – alt attributes, heading hierarchy
+   
    🌐 Forms – <form>, <input>, <button>
+   
 
 🎨 CSS 
+
   🎯Flexbox – layout & alignment
+  
   🧩 Grid – advanced responsive structure
+  
   🌀 Animations – transitions, keyframes
+  
   🎨 Styling – colors, fonts, shadows
+  
   📱 Responsive Design – media queries
+  
 
 ⚡JavaScript – Emoji Ideas for Content Points
+
   🧠 Logic – conditions, loops, functions
+  
   📦 Arrays – map, filter, reduce
+  
   🕹️ DOM Manipulation – querySelector, addEventListener
+  
   🎮 Event Handling – clicks, keypresses, input
+  
   🧩 Objects – properties, methods, nesting
+  
   🚀 ES6+ – destructuring, arrow functions, spread/rest
 
+
 🛠️ Web Projects – Emoji Ideas for Features
+
   🎲 Guessing Game – random logic, score
+  
   🐷 Pig Game – multiplayer turns, dice logic
+  
   🏦 Bankist App – login, transfer, close account
+  
 
 ---
 
