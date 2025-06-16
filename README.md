@@ -54,6 +54,7 @@ And I’m not stopping there. I’m moving deeper into:
 Here’s a look at the technologies and tools I’m currently using to build, design, and deploy projects:
 
 🧱 Frontend Development
+
   🟠 HTML5 – Structured, semantic, and accessible markup
   🔵 CSS3 – Responsive design with Flexbox, Grid, animations 💅
   🟡 JavaScript (ES6+) – Interactive UI, DOM manipulation, event handling ⚡
