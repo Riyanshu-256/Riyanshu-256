@@ -51,27 +51,62 @@ And I’m not stopping there. I’m moving deeper into:
 
 ## ⚙️ **My Stack: The Tools That Build My World**
 
-I keep things modern but practical.
+Here’s a look at the technologies and tools I’m currently using to build, design, and deploy projects:
 
-On the frontend, I move fast with **HTML, CSS, JavaScript**, and dive deep into **React** to architect clean and reusable components. I’m transitioning into **Next.js** to add server-side rendering and better SEO to my stack.
+🧱 Frontend Development
+  🟠 HTML5 – Structured, semantic, and accessible markup
+  🔵 CSS3 – Responsive design with Flexbox, Grid, animations 💅
+  🟡 JavaScript (ES6+) – Interactive UI, DOM manipulation, event handling ⚡
+  🎨 Visual Studio Code – My go-to code editor with helpful extensions
 
-On the backend, **Node.js and Express** help me ship APIs that are secure, modular, and lightning fast. I use **JWT and Bcrypt** to lock things down, and **MongoDB** for handling dynamic data with Mongoose models that actually make sense.
+🖥️ Backend Development
+  🟢 Node.js – JavaScript runtime for building fast, scalable server-side applications
+  ⚙️ Express.js – Minimal and flexible Node.js web framework for API development
+  🧪 Postman – Powerful API testing and collaboration tool
 
-For testing and iteration, **Postman**, **Thunder Client**, and **MongoDB Compass** are always running.  
-Version control? **Git + GitHub** — no compromise there.  
-My editor of choice? **VS Code**, fully customized for speed and clarity.
+🧪 Web Projects
+  🎲 Guess My Number, 🐷 Pig Game, 🏦 Bankist App – Hands-on projects using core JS & DOM
+  🖼️ Built engaging UIs with transitions, game logic, and form handling
+
+🛠️ Version Control & Collaboration
+  🐙 Git & GitHub – Version control, branching, pull requests, open-source contributions
+  🤝 Team Collaboration – Worked with peers using GitHub Projects & issues
+
+🧠 Learning & Growth
+  📘 Constantly learning through documentation, YouTube, and course projects
+  🎯 Focused on building strong fundamentals before moving to frameworks like React
+
 
 ---
 
 ## 🧱 **What I’ve Built & Learned (So Far)**
+As a passionate Computer Science student, I’ve been diving deep into the world of web development, steadily building a strong foundation. Here's a summary of what I’ve explored and created so far:
 
-I’ve worked on **full backend systems** with secure authentication, protected routes, token management, and modular folder structures — and believe me, nothing teaches you backend better than wiring up JWT flows and watching the 403s roll in until you fix them.
+📝 HTML 
+   🔸 <div>, <span>, <section> — structure & layout
+   📌 Semantic Tags – <header>, <main>, <footer>
+   🧭 Accessibility – alt attributes, heading hierarchy
+   🌐 Forms – <form>, <input>, <button>
 
-I've created **responsive landing pages** that look sharp on any screen, learning the magic of Flexbox, Grid, and media queries in the process. Micro-interactions, smooth transitions, and UI logic? That’s where CSS starts feeling like art.
+🎨 CSS 
+  🎯Flexbox – layout & alignment
+  🧩 Grid – advanced responsive structure
+  🌀 Animations – transitions, keyframes
+  🎨 Styling – colors, fonts, shadows
+  📱 Responsive Design – media queries
 
-In Java, I’ve built **mini apps and practice tools** that helped me master OOP principles, exception handling, and modular logic. The kind of foundation that makes you write better code no matter the language.
+⚡JavaScript – Emoji Ideas for Content Points
+  🧠 Logic – conditions, loops, functions
+  📦 Arrays – map, filter, reduce
+  🕹️ DOM Manipulation – querySelector, addEventListener
+  🎮 Event Handling – clicks, keypresses, input
+  🧩 Objects – properties, methods, nesting
+  🚀 ES6+ – destructuring, arrow functions, spread/rest
 
-And I’m currently brewing something new — an **API-first product** that’ll serve as my public proof of clean, testable, and production-ready backend architecture.
+🛠️ Web Projects – Emoji Ideas for Features
+  🎲 Guessing Game – random logic, score
+  🐷 Pig Game – multiplayer turns, dice logic
+  🏦 Bankist App – login, transfer, close account
 
 ---
 
