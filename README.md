@@ -107,7 +107,7 @@ As a passionate Computer Science student, I’ve been diving deep into the world
    
    🧭 Accessibility – alt attributes, heading hierarchy
    
-   🌐 Forms – <form>, <input>, <button>
+   🌐 Forms – `form`, `input`, `button`
    
 
 🎨 CSS 
