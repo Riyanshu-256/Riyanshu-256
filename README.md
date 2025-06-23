@@ -7,7 +7,6 @@
 </p>
 
 ---
----
 
 ## 👋 **About Me**
 
@@ -102,9 +101,9 @@ As a passionate Computer Science student, I’ve been diving deep into the world
 
 📝 HTML 
 
-   🔸 <div>, <span>, <section> — structure & layout
+   🔸 Basics of HTML — structure & layout
    
-   📌 Semantic Tags – <header>, <main>, <footer>
+   📌 Semantic Tags – `header` `nav` `section` `article`
    
    🧭 Accessibility – alt attributes, heading hierarchy
    
