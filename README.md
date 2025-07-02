@@ -152,11 +152,11 @@ As a passionate Computer Science student, I’ve been diving deep into the world
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharmariyanshu&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sharmariyanshu&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Riyanshu-256&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Riyanshu-256&theme=radical&hide_border=true" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmariyanshu&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyanshu-256&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
