@@ -8,144 +8,170 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-Hey! I’m **Riyanshu Sharma**, a passionate Computer Science student at **UCET Hazaribagh** 🚀  
-Fueled by 💡 curiosity, 🧠 logic, and 💪 consistency, I'm here to build cool things with code!
+Hey! I’m Riyanshu Sharma, a Computer Science student at UCET Hazaribagh, and someone who lives and breathes code, curiosity, and consistency.
 
----
-
-## 🔥 What Drives Me
-
-> "I don’t just follow tutorials — I break them down, rebuild them, and make them mine."
-
-- 🧠 Build-first mindset — I learn by doing  
-- 🧩 Break stuff to understand how it works  
-- 🔧 Ship projects with real functionality  
-- 🧪 Iterate until it feels right  
+Growing up in Jharkhand, I didn't always have access to top-tier resources—but that never stopped me from pushing the limits of what I could build. From diving deep into Java and DSA to exploring full-stack web dev and cloud tech, every line of code I write is a step closer to mastering this ever-evolving tech universe.
 
 ---
 
-## 📚 How I Learn
+## ⚡ What Drives Me
 
-I follow a loop that works:  
-**Learn → Apply → Break → Fix → Repeat 🔁**
+> I don’t just follow tutorials — I break them down, rebuild them, and make them mine.
 
-✅ Mastered recursion through DSA problems  
-✅ Built REST APIs that go beyond CRUD  
-✅ Built UIs that look good *and* feel responsive
+I’m a strong believer in "build-first" learning. That means:  
+- Taking a problem,  
+- Writing the logic,  
+- Testing the limits,  
+- And shipping it—bugs, features, polish and all.  
 
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-- 🟠 HTML5, 🔵 CSS3, 🟡 JavaScript (ES6+)
-- 🎨 Responsive Design, Animations, Accessibility
-- ⚛️ Currently learning React & Next.js
-
-### 🧠 Backend
-- 🟢 Node.js, ⚙️ Express.js
-- 🔒 JWT & Auth Systems
-- 🌐 REST APIs
-
-### 💾 Database
-- 🍃 MongoDB with Mongoose
-
-### ⚙️ Tools
-- 🧪 Postman, 🐙 Git & GitHub, 🎯 VS Code
-- 🔁 CI/CD Pipelines – GitHub Actions
+Every project I touch is more than just code—it's a reflection of hours spent debugging, structuring logic, securing APIs, and refining UX until it *feels right*.
 
 ---
 
-## 🚀 Projects Highlights
+## 🧠 How I Learn
 
-- 🎲 Guess My Number – DOM-based Game Logic  
-- 🐷 Pig Game – Turn-based multiplayer dice game  
-- 🏦 Bankist App – Full login, transfer, and logout simulation  
-- 🔐 REST APIs – Auth, JWT, secure routes
+Whether it’s Java OOP or JavaScript ES6, async flows or backend auth systems—I follow a loop that works:
+
+Learn → Apply → Break → Fix → Repeat
+
+That’s how I:
+- Understood recursion not just in theory, but by solving real-time DSA challenges.
+- Built REST APIs with Node.js that go beyond CRUD and into security, auth, and folder structuring.
+- Crafted UI layouts that are responsive, accessible, and actually enjoyable to use.
+
+And I’m not stopping there. I’m moving deeper into:
+- React + Next.js for scalable frontend systems  
+- MongoDB + Mongoose for flexible and fast data handling  
+- CI/CD pipelines for smooth, production-grade deployments  
 
 ---
 
-## 🌸✨ GitHub Stats 
+## ⚙️ My Stack: The Tools That Build My World
+
+Here’s a look at the technologies and tools I’m currently using to build, design, and deploy projects:
+
+🧱 Frontend Development
+
+  🟠 HTML5 – Structured, semantic, and accessible markup
+  
+  🔵 CSS3 – Responsive design with Flexbox, Grid, animations
+  
+  🟡 JavaScript (ES6+) – Interactive UI, DOM manipulation, event handling
+  
+  🎨 Visual Studio Code – My go-to code editor with helpful extensions
+
+
+🖥️ Backend Development
+
+  🟢 Node.js – JavaScript runtime for building fast, scalable server-side applications
+  
+  ⚙️ Express.js – Minimal and flexible Node.js web framework for API development
+  
+  🧪 Postman – Powerful API testing and collaboration tool
+
+
+🧪 Web Projects
+
+  🎲 Guess My Number, 🐷 Pig Game, 🏦 Bankist App – Hands-on projects using core JS & DOM
+  
+  🖼️ Built engaging UIs with transitions, game logic, and form handling
+
+
+🛠️ Version Control & Collaboration
+
+  🐙 Git & GitHub – Version control, branching, pull requests, open-source contributions
+  
+  🤝 Team Collaboration – Worked with peers using GitHub Projects & issues
+
+
+🧠 Learning & Growth
+
+  📘 Constantly learning through documentation, YouTube, and course projects
+  
+  🎯 Focused on building strong fundamentals before moving to frameworks like React
+
+
+---
+
+## 🧱 What I’ve Built & Learned (So Far)
+As a passionate Computer Science student, I’ve been diving deep into the world of web development, steadily building a strong foundation. Here's a summary of what I’ve explored and created so far:
+
+
+📝 HTML 
+
+   🔸 Basics of HTML — structure & layout
+   
+   📌 Semantic Tags – header nav section article
+   
+   🧭 Accessibility – alt attributes, heading hierarchy
+   
+   🌐 Forms – form, input, button
+   
+
+🎨 CSS 
+
+  🎯Flexbox – layout & alignment
+  
+  🧩 Grid – advanced responsive structure
+  
+  🌀 Animations – transitions, keyframes
+  
+  🎨 Styling – colors, fonts, shadows
+  
+  📱 Responsive Design – media queries
+  
+
+⚡JavaScript – Emoji Ideas for Content Points
+
+  🧠 Logic – conditions, loops, functions
+  
+  📦 Arrays – map, filter, reduce
+  
+  🕹️ DOM Manipulation – querySelector, addEventListener
+  
+  🎮 Event Handling – clicks, keypresses, input
+  
+  🧩 Objects – properties, methods, nesting
+  
+  🚀 ES6+ – destructuring, arrow functions, spread/rest
+
+
+🛠️ Web Projects – Emoji Ideas for Features
+
+  🎲 Guessing Game – random logic, score
+  
+  🐷 Pig Game – multiplayer turns, dice logic
+  
+  🏦 Bankist App – login, transfer, close account
+  
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Riyanshu-256&show_icons=true&theme=transparent&bg_color=00000000&title_color=FFC0CB&text_color=D2B48C&icon_color=FFC0CB&border_radius=16&hide=issues&count_private=true&include_all_commits=true" 
-    width="48%" 
-    alt="GitHub Stats" 
-  />
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Riyanshu-256&theme=transparent&background=00000000&currStreakLabel=FFC0CB&sideLabels=FFC0CB&dates=D2B48C&fire=FFC0CB&ring=FFC0CB&border_radius=16&hide_border=true" 
-    width="48%" 
-    alt="GitHub Streak" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Riyanshu-256&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Riyanshu-256&theme=radical&hide_border=true" width="48%" />
 </p>
-
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyanshu-256&layout=compact&theme=transparent&bg_color=00000000&title_color=FFC0CB&text_color=D2B48C&icon_color=FFC0CB&border_radius=16&hide_border=true" 
-    width="48%" 
-    alt="Top Languages" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyanshu-256&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
-
 
 ---
 
 ## 🎯 2024–25 Roadmap
 
-🛠️ **Skills & Tools**
-- ✅ Master Core Java & Advanced Concepts
-- ✅ Data Structures & Algorithms (DSA) – GFG, LeetCode, HackerRank
-- ⚛️ Deep Dive into React + Next.js
-- 🌐 Advanced Backend with Node.js & Express
-- 🍃 Integrate MongoDB + Mongoose effectively
-- 🔐 Build Secure Auth Systems (JWT, OAuth2)
-- 🔁 CI/CD pipelines using GitHub Actions & Docker
-
-💼 **Career & Growth**
-- 🏆 Win or participate in 2–3 Hackathons
-- 💻 Land a solid Internship
-- 🌍 Contribute to 2–3 meaningful open-source projects
-- 🧪 Build & deploy full-stack production apps
-- 📘 Keep learning through documentation & projects
-
----
-
-## 📚 Courses & Platforms
-
-<table>
-  <tr>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java Logo" width="60" /></td>
-    <td>
-      <strong>Java Course</strong><br>
-      - Core Java, OOP, Collections<br>
-      - JDBC, Threads, File Handling
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="https://media.geeksforgeeks.org/wp-content/uploads/20230823144130/gfglogo.png" alt="GFG Logo" width="60" /></td>
-    <td>
-      <strong>GeeksforGeeks – DSA Practice</strong><br>
-      🔗 <a href="https://auth.geeksforgeeks.org/user/sharmariyanshuu/practice" target="_blank">My GFG Profile</a><br>
-      - Solved 100+ problems<br>
-      - Mastered Arrays, Strings, Trees, Graphs
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Logo" width="60" /></td>
-    <td>
-      <strong>HackerRank – Java Practice</strong><br>
-      🔗 <a href="https://www.hackerrank.com/sharmariyanshuu" target="_blank">My HackerRank Profile</a><br>
-      - Java coding challenges<br>
-      - Focused on logic, loops, patterns
-    </td>
-  </tr>
-</table>
+- ✅ Java + DSA deep dive  
+- 🔐 Secure full-stack apps  
+- ⚛️ Master React + Next.js  
+- 🌐 Build & deploy real-world APIs  
+- 🏆 Crack 2–3 major hackathons  
+- 💼 Land an internship  
+- 🌍 Contribute to open source  
+- 🔄 Deploy with CI/CD pipelines  
+- 🧠 Keep learning, keep building  
 
 ---
 
@@ -160,7 +186,8 @@ I follow a loop that works:
 
 ## 💬 Final Words
 
-Thanks for stopping by! 🙌  
-I'm always excited to connect, collaborate, and learn together. If you're into solving problems, building things, or even just sharing debugging nightmares — let’s chat!
+Thanks for dropping by!
 
-**Let’s build something epic. Together.** 🚀
+Whether you’re here to collaborate, learn, or just scroll through — I’m always up for tech talk, project collabs, or a good old debugging war story.
+
+Let’s build something epic.
