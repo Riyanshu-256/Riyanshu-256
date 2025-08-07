@@ -13,141 +13,128 @@
 Hey! I’m **Riyanshu Sharma**, a passionate Computer Science student at **UCET Hazaribagh** 🚀  
 Fueled by 💡 curiosity, 🧠 logic, and 💪 consistency, I'm here to build cool things with code!
 
-Growing up in Jharkhand 🇮🇳, I carved my own learning path with open-source tools, real-world projects, and a never-give-up mindset 🛠️.
-
 ---
 
-## 💡 What Drives Me
+## 🔥 What Drives Me
 
-> I don’t just follow tutorials — I break them down, rebuild them, and make them mine 🔁
+> "I don’t just follow tutorials — I break them down, rebuild them, and make them mine."
 
-I believe in **Build-First Learning** 🧪:
-- 🧩 Explore the problem  
-- 🛠️ Build a solution  
-- 🔍 Break it & debug  
-- ✅ Rebuild it better
-
-Every project is a reflection of hours spent coding, structuring logic, refining UI/UX, and testing like a mad scientist 🧪.
+- 🧠 Build-first mindset — I learn by doing  
+- 🧩 Break stuff to understand how it works  
+- 🔧 Ship projects with real functionality  
+- 🧪 Iterate until it feels right  
 
 ---
 
 ## 📚 How I Learn
 
-I follow this mantra: **Learn → Apply → Break → Fix → Repeat 🔁**
+I follow a loop that works:  
+**Learn → Apply → Break → Fix → Repeat 🔁**
 
-✅ Grasped recursion through real DSA problems  
-✅ Built scalable REST APIs with Node.js  
-✅ Designed responsive UIs that just *feel* right
-
-### 🔭 Currently Diving Into:
-- ⚛️ React + Next.js – UI engineering at scale  
-- 🍃 MongoDB + Mongoose – flexible and fast DB magic  
-- 🔁 CI/CD Pipelines – automate, test, deploy
+✅ Mastered recursion through DSA problems  
+✅ Built REST APIs that go beyond CRUD  
+✅ Built UIs that look good *and* feel responsive
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-- 🟠 **HTML5** – Semantic, accessible markup  
-- 🔵 **CSS3** – Flexbox, Grid, Animations  
-- 🟡 **JavaScript (ES6+)** – Async, clean code, DOM  
-- 🧑‍🎨 **VS Code** – My power-packed editor
+- 🟠 HTML5, 🔵 CSS3, 🟡 JavaScript (ES6+)
+- 🎨 Responsive Design, Animations, Accessibility
+- ⚛️ Currently learning React & Next.js
 
 ### 🧠 Backend
-- 🟢 **Node.js** – Fast and scalable runtime  
-- ⚙️ **Express.js** – REST API development  
-- 🔒 **JWT/Auth** – Secure endpoints  
-- 🧪 **Postman** – API testing
+- 🟢 Node.js, ⚙️ Express.js
+- 🔒 JWT & Auth Systems
+- 🌐 REST APIs
 
-### 🔧 Tools & Version Control
-- 🐙 **Git & GitHub** – Commits, branches, PRs  
-- 🤝 **Team Collaboration** – Issues, Projects, Code Reviews
+### 💾 Database
+- 🍃 MongoDB with Mongoose
 
----
-
-## 🎓 Courses & Practice Challenges
-
-<table>
-  <tr>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java Logo" width="80" /></td>
-    <td>
-      <strong>🔥 Java Mastery</strong><br>
-      <ul>
-        <li>✔️ Core Java – OOP, Collections, Exception Handling</li>
-        <li>✔️ File I/O, Threads, JDBC</li>
-        <li>✔️ Mini-Projects – CLI apps using pure Java</li>
-      </ul>
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="https://media.geeksforgeeks.org/wp-content/uploads/20230823144130/gfglogo.png" alt="GFG Logo" width="80" /></td>
-    <td>
-      <strong>🧠 DSA Practice – GeeksforGeeks</strong><br>
-      <ul>
-        <li>✔️ Arrays, Strings, Stack, Queue</li>
-        <li>✔️ Trees & Binary Search Trees</li>
-        <li>⏳ Graphs, Greedy, Dynamic Programming</li>
-      </ul>
-      <a href="https://auth.geeksforgeeks.org/user/your-gfg-profile/practice" target="_blank">🔗 My GFG Profile</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Logo" width="80" /></td>
-    <td>
-      <strong>🧩 Java Challenges – HackerRank + GFG</strong><br>
-      <ul>
-        <li>✅ 50+ Java problems solved</li>
-        <li>✅ Focused on Patterns, Loops, Arrays, Recursion</li>
-        <li>🧠 Regular logic-building sessions</li>
-      </ul>
-      <a href="https://www.hackerrank.com/your-profile" target="_blank">🔗 HackerRank Profile</a>
-    </td>
-  </tr>
-</table>
+### ⚙️ Tools
+- 🧪 Postman, 🐙 Git & GitHub, 🎯 VS Code
+- 🔁 CI/CD Pipelines – GitHub Actions
 
 ---
 
-## 🚀 Projects I've Built
+## 🚀 Projects Highlights
 
-- 🎲 **Guess My Number** – Random logic, input feedback  
-- 🐷 **Pig Game** – Dice game with DOM interactivity  
-- 🏦 **Bankist App** – Login, transfer, close account logic  
-- 🔐 **Auth REST APIs** – Secure, CRUD-ready Express APIs
+- 🎲 Guess My Number – DOM-based Game Logic  
+- 🐷 Pig Game – Turn-based multiplayer dice game  
+- 🏦 Bankist App – Full login, transfer, and logout simulation  
+- 🔐 REST APIs – Auth, JWT, secure routes
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riyanshu-256&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Riyanshu-256&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Riyanshu-256&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&hide=issues&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Riyanshu-256&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyanshu-256&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyanshu-256&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
 ---
 
 ## 🎯 2024–25 Roadmap
 
-- ✅ Java + OOP mastery  
-- ✅ DSA (GFG) + Java challenges (HackerRank)  
-- 🔐 Full-stack app security  
-- ⚛️ Master React + Next.js  
-- 🔧 Build real-world REST APIs  
-- 🧪 Backend modularization + testing  
-- 🚀 CI/CD deployment pipelines  
-- 💼 Internship-ready portfolio  
-- 🏆 2–3 Hackathons  
-- 🌍 Open-source contributions  
-- 📈 Always learning, always building
+🛠️ **Skills & Tools**
+- ✅ Master Core Java & Advanced Concepts
+- ✅ Data Structures & Algorithms (DSA) – GFG, LeetCode, HackerRank
+- ⚛️ Deep Dive into React + Next.js
+- 🌐 Advanced Backend with Node.js & Express
+- 🍃 Integrate MongoDB + Mongoose effectively
+- 🔐 Build Secure Auth Systems (JWT, OAuth2)
+- 🔁 CI/CD pipelines using GitHub Actions & Docker
+
+💼 **Career & Growth**
+- 🏆 Win or participate in 2–3 Hackathons
+- 💻 Land a solid Internship
+- 🌍 Contribute to 2–3 meaningful open-source projects
+- 🧪 Build & deploy full-stack production apps
+- 📘 Keep learning through documentation & projects
 
 ---
 
-## 🤝 Let’s Connect!
+## 📚 Courses & Platforms
+
+<table>
+  <tr>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java Logo" width="60" /></td>
+    <td>
+      <strong>Java Course</strong><br>
+      - Core Java, OOP, Collections<br>
+      - JDBC, Threads, File Handling
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://media.geeksforgeeks.org/wp-content/uploads/20230823144130/gfglogo.png" alt="GFG Logo" width="60" /></td>
+    <td>
+      <strong>GeeksforGeeks – DSA Practice</strong><br>
+      🔗 <a href="https://auth.geeksforgeeks.org/user/sharmariyanshuu/practice" target="_blank">My GFG Profile</a><br>
+      - Solved 300+ problems<br>
+      - Mastered Arrays, Strings, Trees, Graphs
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Logo" width="60" /></td>
+    <td>
+      <strong>HackerRank – Java Practice</strong><br>
+      🔗 <a href="https://www.hackerrank.com/sharmariyanshuu" target="_blank">My HackerRank Profile</a><br>
+      - Java coding challenges<br>
+      - Focused on logic, loops, patterns
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Let’s Connect
 
 <p align="center">
   <a href="https://github.com/Sharmariyanshuu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -158,10 +145,7 @@ I follow this mantra: **Learn → Apply → Break → Fix → Repeat 🔁**
 
 ## 💬 Final Words
 
-Thanks for dropping by! 🙌  
-Whether you're here to collaborate, learn, or explore — I'm always up for:
-- 💻 Tech talk
-- ⚙️ Building ideas
-- 🐛 Debugging war stories
+Thanks for stopping by! 🙌  
+I'm always excited to connect, collaborate, and learn together. If you're into solving problems, building things, or even just sharing debugging nightmares — let’s chat!
 
-Let’s build something **epic** together! 🚀
+**Let’s build something epic. Together.** 🚀
