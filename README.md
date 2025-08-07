@@ -116,7 +116,7 @@ I follow a loop that works:
     <td>
       <strong>GeeksforGeeks – DSA Practice</strong><br>
       🔗 <a href="https://auth.geeksforgeeks.org/user/sharmariyanshuu/practice" target="_blank">My GFG Profile</a><br>
-      - Solved 300+ problems<br>
+      - Solved 100+ problems<br>
       - Mastered Arrays, Strings, Trees, Graphs
     </td>
   </tr>
