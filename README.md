@@ -67,19 +67,17 @@ I follow a loop that works:
 
 ---
 
-## 💖 GitHub Stats 
-
-## 🌸 GitHub Stats (Pink Themed)
+## 🌸✨ GitHub Stats 
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Riyanshu-256&show_icons=true&theme=maroongold&rank_icon=github&hide=issues&border_radius=16&count_private=true&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Riyanshu-256&show_icons=true&theme=transparent&bg_color=00000000&title_color=FFC0CB&text_color=D2B48C&icon_color=FFC0CB&border_radius=16&hide=issues&count_private=true&include_all_commits=true" 
     width="48%" 
     alt="GitHub Stats" 
   />
 
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Riyanshu-256&theme=maroongold&hide_border=true&border_radius=16" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Riyanshu-256&theme=transparent&background=00000000&currStreakLabel=FFC0CB&sideLabels=FFC0CB&dates=D2B48C&fire=FFC0CB&ring=FFC0CB&border_radius=16&hide_border=true" 
     width="48%" 
     alt="GitHub Streak" 
   />
@@ -87,7 +85,7 @@ I follow a loop that works:
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyanshu-256&layout=compact&theme=maroongold&hide_border=true&border_radius=16" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyanshu-256&layout=compact&theme=transparent&bg_color=00000000&title_color=FFC0CB&text_color=D2B48C&icon_color=FFC0CB&border_radius=16&hide_border=true" 
     width="48%" 
     alt="Top Languages" 
   />
