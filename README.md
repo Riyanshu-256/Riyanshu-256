@@ -67,17 +67,30 @@ I follow a loop that works:
 
 ---
 
-## 📊 GitHub Stats (Enhanced Look)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riyanshu-256&show_icons=true&theme=gradient&rank_icon=github&hide=issues&border_radius=12&count_private=true&include_all_commits=true" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Riyanshu-256&theme=highcontrast&hide_border=true&border_radius=12" width="48%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Riyanshu-256&show_icons=true&theme=tokyonight&rank_icon=github&hide=issues&border_radius=16&count_private=true&include_all_commits=true" 
+    width="48%" 
+    alt="GitHub Stats" 
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Riyanshu-256&theme=tokyonight&hide_border=true&border_radius=16" 
+    width="48%" 
+    alt="GitHub Streak Stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyanshu-256&layout=compact&theme=gradient&hide_border=true&border_radius=12" width="48%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyanshu-256&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" 
+    width="48%" 
+    alt="Top Languages" 
+  />
 </p>
+
 
 
 ---
