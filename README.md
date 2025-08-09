@@ -86,7 +86,7 @@ I follow this mantra: Learn → Apply → Break → Fix → Repeat 🔁
   </tr>
 
   <tr>
-    <td><img src="https://media.geeksforgeeks.org/wp-content/uploads/20230823144130/gfglogo.png" alt="GFG Logo" width="80" /></td>
+    <td><img src="[https://media.geeksforgeeks.org/wp-content/uploads/20230823144130/gfglogo.png](https://media.geeksforgeeks.org/wp-content/uploads/20230403183704/gfg_logo.png)" alt="GFG Logo" width="80" /></td>
     <td>
       <strong>🧠 DSA Practice – GeeksforGeeks</strong><br>
       <ul>
