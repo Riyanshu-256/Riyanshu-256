@@ -94,7 +94,7 @@ I follow this mantra: Learn → Apply → Break → Fix → Repeat 🔁
         <li>✔️ Trees & Binary Search Trees</li>
         <li>⏳ Graphs, Greedy, Dynamic Programming</li>
       </ul>
-      <a href="https://www.geeksforgeeks.org/user/riyans8254/" target="_blank">🔗 My GFG Profile</a>
+      <a href="https://www.geeksforgeeks.org/user/riyans8254/" target="_blank">🔗 GFG Profile</a>
     </td>
   </tr>
 
@@ -134,7 +134,7 @@ I follow this mantra: Learn → Apply → Break → Fix → Repeat 🔁
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sourav-357&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riyanshu-257&theme=react-dark" width="100%"/>
 </p>
 
 ---
