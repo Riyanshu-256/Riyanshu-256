@@ -94,7 +94,7 @@ I follow this mantra: Learn → Apply → Break → Fix → Repeat 🔁
         <li>✔️ Trees & Binary Search Trees</li>
         <li>⏳ Graphs, Greedy, Dynamic Programming</li>
       </ul>
-      <a href="https://auth.geeksforgeeks.org/user/your-gfg-profile/practice" target="_blank">🔗 My GFG Profile</a>
+      <a href="https://www.geeksforgeeks.org/user/riyans8254/" target="_blank">🔗 My GFG Profile</a>
     </td>
   </tr>
 
