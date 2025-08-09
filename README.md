@@ -134,7 +134,7 @@ I follow this mantra: Learn → Apply → Break → Fix → Repeat 🔁
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riyanshu-257&theme=react-dark" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riyanshu-256&theme=react-dark" width="100%"/>
 </p>
 
 ---
