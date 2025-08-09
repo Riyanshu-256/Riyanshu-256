@@ -107,7 +107,7 @@ I follow this mantra: Learn → Apply → Break → Fix → Repeat 🔁
         <li>✅ Focused on Patterns, Loops, Arrays, Recursion</li>
         <li>🧠 Regular logic-building sessions</li>
       </ul>
-      <a href="https://www.hackerrank.com/your-profile" target="_blank">🔗 HackerRank Profile</a>
+      <a href="https://www.hackerrank.com/profile/riyanshu062" target="_blank">🔗 HackerRank Profile</a>
     </td>
   </tr>
 </table>
