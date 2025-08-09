@@ -133,6 +133,10 @@ I follow this mantra: Learn → Apply → Break → Fix → Repeat 🔁
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyanshu-256&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sourav-357&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ## 🎯 2024–25 Roadmap
