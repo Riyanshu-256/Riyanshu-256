@@ -110,6 +110,21 @@ I follow this mantra: Learn → Apply → Break → Fix → Repeat 🔁
       <a href="https://www.hackerrank.com/profile/riyanshu062" target="_blank">🔗 HackerRank Profile</a>
     </td>
   </tr>
+  
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" width="80" /></td>
+    <td>
+      <strong>⚡ DSA Practice – LeetCode</strong><br>
+      <ul>
+        <li>✔️ 50+ problems solved</li>
+        <li>✔️ Focus on Arrays, Strings, HashMap, and Binary Search</li>
+        <li>⏳ Practicing Medium & Hard level challenges</li>
+      </ul>
+      <a href="https://leetcode.com/your-leetcode-username/" target="_blank">🔗 LeetCode Profile</a>
+    </td>
+  </tr>
+
+
 </table>
 
 ---
