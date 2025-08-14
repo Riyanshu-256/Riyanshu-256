@@ -4,7 +4,7 @@
     src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF4C4C&center=true&vCenter=true&width=600&lines=Hey+there!+I’m+Riyanshu+Sharma+🎓;CSE+Student+@+UCET+Hazaribagh;Java+%26+DSA+Practitioner+🧠;Web+Dev+%2B+Cloud+Explorer+☁️;App+Development+Enthusiast+📱;Code.+Build.+Iterate.+Repeat+🔥" 
     alt="Typing SVG" 
   />
-</p>
+</p> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Riyanshu-256&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
