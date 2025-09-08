@@ -12,7 +12,7 @@
     
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me   
 
 Hey! I’m Riyanshu Sharma, a passionate Computer Science student at UCET Hazaribagh 🚀  
 Fueled by 💡 curiosity, 🧠 logic, and 💪 consistency, I'm here to build cool things with code!
