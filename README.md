@@ -209,17 +209,16 @@ Here are some of the projects I've built, showcasing my skills in web developmen
 
 A clear vision for the upcoming year to fuel my growth and contributions:
 
-- ✅ **Java + OOP mastery**: Solidify advanced Java concepts and object-oriented programming for robust software design. ☕✨  
-- ✅ **DSA (GFG) + Java challenges (HackerRank)**: Continue rigorous practice in Data Structures and Algorithms to sharpen problem-solving skills. 🧠💪  
-- 🔐 **Full-stack app security**: Deep dive into security best practices and implement secure authentication/authorization mechanisms. 🛡️  
-- ⚛️ **Master React + Next.js**: Achieve proficiency in building dynamic, high-performance, and scalable frontends. 🌐⚛️  
-- 🔧 **Build real-world REST APIs**: Develop complex, production-ready backend services with a focus on efficiency and maintainability. 🔗🚀  
-- 🧪 **Backend modularization + testing**: Focus on creating maintainable, test-driven, and thoroughly tested backend codebases. 🏗️✅  
-- 🚀 **CI/CD deployment pipelines**: Implement automated pipelines for continuous integration and seamless deployment processes. ⚙️⚡  
-- 💼 **Internship-ready portfolio**: Curate a strong, diverse portfolio showcasing my best projects and skills for career opportunities. 🌟  
-- 🏆 **2–3 Hackathons**: Actively participate in hackathons to foster innovation, collaboration, and rapid prototyping. 💡🤝  
-- 🌍 **Open-source contributions**: Contribute to open-source projects, giving back to the community and collaborating with global developers. 💖  
-- 📈 **Always learning, always building**: Maintain a continuous growth mindset, exploring new technologies and tackling challenging projects. 🌱🛠️
+- ✅ **Java + OOP mastery**: Master Java, OOP & multithreading. 
+- ✅ **DSA (GFG) + Java challenges (HackerRank)**: Practice DSA & solve coding problems.  
+- 🔐 **Full-stack app security**: Learn secure login & fix web vulnerabilities. 
+- ⚛️ **Master React + Next.js**: Build fast, SEO-friendly websites.  
+- 🔧 **Build real-world REST APIs**: Develop powerful Node.js APIs.
+- 🧪 **Backend modularization + testing**: Write clean, tested backend code.
+- 🚀 **CI/CD deployment pipelines**: Automate build & deployment.
+- 🏆 **2–3 Hackathons**: Join 2–3 hackathons & build fast. 
+- 🌍 **Open-source contributions**: Contribute & learn from community.
+- 📈 **Always learning, always building**: Explore new tech & grow skills.
 
 <br>
 
