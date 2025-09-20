@@ -83,6 +83,7 @@ My learning mantra: **Learn → Apply → Break → Fix → Repeat** 🔄
 My toolkit is a dynamic blend of technologies, continually expanding as I explore new horizons. Here's a glimpse of the tools I wield:
 
 ### 🎨 Frontend Development
+Leveraging modern frameworks and libraries to build engaging and responsive user interfaces:
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -93,6 +94,7 @@ My toolkit is a dynamic blend of technologies, continually expanding as I explor
 </p>
 
 ### 🧠 Backend Development
+Building robust, scalable, and secure server-side applications and APIs:
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -102,6 +104,7 @@ My toolkit is a dynamic blend of technologies, continually expanding as I explor
 </p>
 
 ### ⚙️ Tools & Version Control
+My essential tools for efficient development, collaboration, and deployment:
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -177,27 +180,27 @@ My dedication to continuous learning is reflected in my coursework and competiti
 
 ## 🚀 Key Projects 🌟
 
-Here are some of the projects I've built, showcasing my skills in web development and problem-solving:
+Here are some of the key projects I've developed, demonstrating my expertise in web development and problem-solving. Each project is a testament to my hands-on approach and dedication to creating functional and engaging applications.
 
 *   ### 🎲 Guess My Number
-    *   **Description**: A classic interactive game built with core JavaScript, focusing on random number generation and immediate user feedback through DOM manipulation. 🕹️
+    *   **Description**: An interactive number-guessing game built with core JavaScript, focusing on DOM manipulation and immediate user feedback. This project solidified my understanding of fundamental front-end logic.
     *   **Technologies**: HTML, CSS, JavaScript
-    *   [Link to Project / Repo if available]
+    *   [🔗 **View Repository**](https://github.com/Riyanshu-256/Guess-My-Number) | [🚀 **Live Demo**](https://riyanshu-256.github.io/Guess-My-Number/)
 
 *   ### 🐷 Pig Game
-    *   **Description**: A dynamic two-player dice game implementing game logic, state management, and real-time UI updates for an engaging user experience. 🎲
+    *   **Description**: A dynamic two-player dice game implementing complex game logic, state management, and real-time UI updates for an engaging user experience. It showcased my ability to manage interactive states effectively.
     *   **Technologies**: HTML, CSS, JavaScript
-    *   [Link to Project / Repo if available]
+    *   [🔗 **View Repository**](https://github.com/Riyanshu-256/Pig-Game) | [🚀 **Live Demo**](https://riyanshu-256.github.io/Pig-Game/)
 
 *   ### 🏦 Bankist App
-    *   **Description**: A simulated banking application featuring secure user login, account transfers, and account closing logic, demonstrating advanced JavaScript and array methods. 💰
+    *   **Description**: A simulated modern banking application featuring secure user login, account transfers, and account closing logic. This project extensively utilized advanced JavaScript features and array methods for data manipulation and security.
     *   **Technologies**: HTML, CSS, JavaScript
-    *   [Link to Project / Repo if available]
+    *   [🔗 **View Repository**](https://github.com/Riyanshu-256/Bankist) | [🚀 **Live Demo**](https://riyanshu-256.github.io/Bankist/)
 
 *   ### 🔐 Authentication REST APIs
-    *   **Description**: Developed a robust and secure RESTful API with Express.js, integrating JWT for efficient authentication and authorization, supporting full CRUD operations. 🔒
-    *   **Technologies**: Node.js, Express.js, JWT, MongoDB (or other DB used)
-    *   [Link to Project / Repo if available]
+    *   **Description**: Developed a robust and secure RESTful API using Node.js and Express.js. It integrates JSON Web Tokens (JWT) for efficient authentication and authorization, supporting comprehensive CRUD operations and secure user management.
+    *   **Technologies**: Node.js, Express.js, JWT, MongoDB
+    *   [🔗 **View Repository**](https://github.com/Riyanshu-256/Authentication-REST-APIs)
 
 <br>
 
