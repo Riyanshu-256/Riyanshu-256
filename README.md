@@ -13,12 +13,30 @@
 ---
 <br>
 
+## 📝 Table of Contents
+
+- [✨ About Me 🚀](#-about-me-🚀)
+- [🌟 What Drives My Craft 💡](#-what-drives-my-craft-💡)
+- [📚 My Learning Journey 📈](#-my-learning-journey-📈)
+- [🛠️ Tech Stack & Tools 🔧](#%EF%B8%8F-tech-stack--tools-%F0%9F%94%A7)
+- [🏆 Courses & Practice Challenges 🥇](#-courses--practice-challenges-🥇)
+- [🚀 Key Projects 🌟](#-key-projects-🌟)
+- [📊 GitHub Stats & Activity 📈](#-github-stats--activity-📈)
+- [🎯 My 2024–25 Roadmap 🗺️](#-my-202425-roadmap-%EF%B8%8F)
+- [🤝 Let’s Connect! 👋](#-lets-connect-👋)
+- [💬 Final Words ✨](#-final-words-✨)
+- [📄 License](#-license)
+
+---
+<br>
+
 ## ✨ About Me 🚀
 
-Hey! I’m Riyanshu Sharma, a passionate Computer Science student at UCET Hazaribagh 🎓.  
-Fueled by 💡 curiosity, 🧠 logic, and 💪 consistency, I'm dedicated to building impactful solutions with code! 💻
+Hey! I’m Riyanshu Sharma, a passionate Computer Science student at UCET Hazaribagh 🎓, driven by a commitment to innovation and impactful software development. Fueled by 💡 curiosity, 🧠 logic, and 💪 consistency, I specialize in crafting robust and scalable solutions with code! 💻
 
-Growing up in Jharkhand 🇮🇳, I’ve forged my learning path through open-source tools, hands-on projects, and a relentless pursuit of knowledge 🛠️. I thrive on transforming ideas into robust, functional applications.
+With a solid foundation in Java and DSA, and hands-on experience in full-stack development (MERN stack), I thrive on transforming complex challenges into elegant, high-performance applications. I've actively contributed to open-source projects and honed my skills through rigorous problem-solving, consistently delivering functional and efficient code.
+
+My journey, rooted in Jharkhand 🇮🇳, has been shaped by continuous learning and a relentless pursuit of knowledge 🛠️. I am passionate about leveraging technology to create real-world value and am always eager to collaborate on projects that push the boundaries of what's possible.
 
 <br>
 
@@ -35,7 +53,7 @@ I strongly believe in a **Build-First Learning** approach 🧪:
 - 🔍 **Break & Debug**: Deliberately identify and fix failure points, learning from every error. 🐞 
 - ✅ **Rebuild**: Iterate and refine for optimal performance, user experience, and code quality. ✨
 
-Every project I undertake is a testament to hours spent coding, structuring logic, refining UI/UX, and testing like a mad scientist 🔬.
+I pour hours into every project, meticulously coding, structuring logic, refining UI/UX, and rigorously testing like a mad scientist 🔬 to ensure robust and polished applications.
 
 <br>
 
@@ -46,9 +64,9 @@ Every project I undertake is a testament to hours spent coding, structuring logi
 
 My learning mantra: **Learn → Apply → Break → Fix → Repeat** 🔄
 
-✅ Mastered recursion and core DSA concepts through real-world problems. 📊  
-✅ Built scalable REST APIs using Node.js and Express.js. 🔗  
-✅ Designed responsive and intuitive user interfaces that enhance user interaction. 🎨
+✅ Mastered recursion and core DSA concepts through real-world problems, successfully applying them to solve numerous challenges on GFG and LeetCode. 📊  
+✅ Built and deployed scalable REST APIs using Node.js and Express.js, focusing on secure and efficient data exchange. 🔗  
+✅ Designed and implemented responsive and intuitive user interfaces, enhancing user interaction and engagement across various projects. 🎨
 
 ### 🔭 Currently Diving Into:
 - ⚛️ **React + Next.js** – Building modern, performant, and SEO-friendly web applications at scale. 🌐  
@@ -62,7 +80,7 @@ My learning mantra: **Learn → Apply → Break → Fix → Repeat** 🔄
 
 ## 🛠️ Tech Stack & Tools 🔧
 
-My toolkit is constantly evolving, but here's a glimpse of the technologies I wield:
+My toolkit is a dynamic blend of technologies, continually expanding as I explore new horizons. Here's a glimpse of the tools I wield:
 
 ### 🎨 Frontend Development
 <p align="center">
@@ -108,7 +126,7 @@ My dedication to continuous learning is reflected in my coursework and competiti
       <ul>
         <li>✔️ **Core Java**: Solid foundation in OOP principles, Collections Framework, and Exception Handling. ☕</li>
         <li>✔️ **Advanced Topics**: Proficient in File I/O operations, Multi-threading, and JDBC for database connectivity. 🛠️</li>
-        <li>✔️ **Practical Experience**: Developed various Command Line Interface (CLI) applications using pure Java. 🖥️</li>
+        <li>✔️ **Practical Experience**: Developed several Command Line Interface (CLI) applications using pure Java, showcasing proficiency in object-oriented design. 🖥️</li>
       </ul>
     </td>
   </tr>
@@ -119,7 +137,7 @@ My dedication to continuous learning is reflected in my coursework and competiti
       <strong>🧠 DSA Practice – GeeksforGeeks</strong><br>
       <ul>
         <li>✔️ **Foundational Data Structures**: Strong understanding of Arrays, Strings, Stack, and Queue. 📚</li>
-        <li>✔️ **Tree Structures**: Solved numerous problems related to Trees & Binary Search Trees. 🌳</li>
+        <li>✔️ **Tree Structures**: Successfully navigated and solved numerous problems related to Trees & Binary Search Trees, strengthening my foundational understanding. 🌳</li>
         <li>⏳ **Advanced Algorithms**: Currently focusing on Graphs, Greedy Algorithms, and Dynamic Programming. 📈</li>
       </ul>
       <a href="https://www.geeksforgeeks.org/user/riyans8254/" target="_blank">🔗 GFG Profile</a>
@@ -144,10 +162,10 @@ My dedication to continuous learning is reflected in my coursework and competiti
     <td>
       <strong>⚡ DSA Practice – LeetCode</strong><br>
       <ul>
-        <li>✔️ **Diverse Problems**: Solved 50+ problems with a focus on Arrays, Strings, HashMap, and Binary Search. 🔍</li>
+        <li>✔️ **Diverse Problems**: Successfully tackled 50+ LeetCode problems, mastering patterns in Arrays, Strings, HashMap, and Binary Search to optimize solutions. 🔍</li>
         <li>⏳ **Skill Enhancement**: Actively practicing Medium & Hard level challenges to enhance problem-solving skills and algorithmic thinking. 💪</li>
       </ul>
-      <a href="https://leetcode.com/Riyanshu-256/" target="_blank">🔗 LeetCode Profile</a> <!-- REMEMBER TO UPDATE THIS WITH YOUR ACTUAL LEETCODE USERNAME -->
+      <a href="https://leetcode.com/Riyanshu-256/" target="_blank">🔗 LeetCode Profile</a>
     </td>
   </tr>
 </table>
@@ -209,16 +227,16 @@ Here are some of the projects I've built, showcasing my skills in web developmen
 
 A clear vision for the upcoming year to fuel my growth and contributions:
 
-- ✅ **Java + OOP mastery**: Master Java, OOP & multithreading. 
-- ✅ **DSA (GFG) + Java challenges (HackerRank)**: Practice DSA & solve coding problems.  
-- 🔐 **Full-stack app security**: Learn secure login & fix web vulnerabilities. 
-- ⚛️ **Master React + Next.js**: Build fast, SEO-friendly websites.  
-- 🔧 **Build real-world REST APIs**: Develop powerful Node.js APIs.
-- 🧪 **Backend modularization + testing**: Write clean, tested backend code.
-- 🚀 **CI/CD deployment pipelines**: Automate build & deployment.
-- 🏆 **2–3 Hackathons**: Join 2–3 hackathons & build fast. 
-- 🌍 **Open-source contributions**: Contribute & learn from community.
-- 📈 **Always learning, always building**: Explore new tech & grow skills.
+- ✅ **Java + OOP mastery**: Achieve advanced proficiency in Java, including Object-Oriented Programming (OOP) principles and concurrent programming with multithreading. 
+- ✅ **DSA (GFG) + Java challenges (HackerRank)**: Deepen algorithmic problem-solving skills through consistent practice on platforms like GFG and LeetCode.  
+- 🔐 **Full-stack app security**: Implement robust authentication and authorization systems, actively identifying and mitigating common web vulnerabilities. 
+- ⚛️ **Master React + Next.js**: Develop high-performance and SEO-optimized web applications using React and Next.js.  
+- 🔧 **Build real-world REST APIs**: Engineer robust and scalable RESTful APIs using Node.js and Express.js, focusing on efficient data handling.
+- 🧪 **Backend modularization + testing**: Implement comprehensive backend modularization and unit testing strategies for maintainable and reliable codebases.
+- 🚀 **CI/CD deployment pipelines**: Design and implement efficient CI/CD pipelines to automate testing, building, and deployment processes.
+- 🏆 **2–3 Hackathons**: Actively participate in 2-3 hackathons, rapidly prototyping and developing innovative solutions. 
+- 🌍 **Open-source contributions**: Make meaningful contributions to open-source projects, collaborating and learning within the developer community.
+- 📈 **Always learning, always building**: Continuously explore emerging technologies and expand my skill set through self-directed learning and practical application.
 
 <br>
 
@@ -249,3 +267,12 @@ Whether you're here to collaborate, learn, or explore — I'm always up for:
 - 🐛 Debugging war stories
 
 Let’s build something epic together! 🚀
+
+<br>
+
+---
+<br>
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
