@@ -185,22 +185,18 @@ Here are some of the key projects I've developed, demonstrating my expertise in 
 *   ### 🎲 Guess My Number
     *   **Description**: An interactive number-guessing game built with core JavaScript, focusing on DOM manipulation and immediate user feedback. This project solidified my understanding of fundamental front-end logic.
     *   **Technologies**: HTML, CSS, JavaScript
-    *   [🔗 **View Repository**](https://github.com/Riyanshu-256/Guess-My-Number) | [🚀 **Live Demo**](https://riyanshu-256.github.io/Guess-My-Number/)
 
 *   ### 🐷 Pig Game
     *   **Description**: A dynamic two-player dice game implementing complex game logic, state management, and real-time UI updates for an engaging user experience. It showcased my ability to manage interactive states effectively.
     *   **Technologies**: HTML, CSS, JavaScript
-    *   [🔗 **View Repository**](https://github.com/Riyanshu-256/Pig-Game) | [🚀 **Live Demo**](https://riyanshu-256.github.io/Pig-Game/)
 
 *   ### 🏦 Bankist App
     *   **Description**: A simulated modern banking application featuring secure user login, account transfers, and account closing logic. This project extensively utilized advanced JavaScript features and array methods for data manipulation and security.
     *   **Technologies**: HTML, CSS, JavaScript
-    *   [🔗 **View Repository**](https://github.com/Riyanshu-256/Bankist) | [🚀 **Live Demo**](https://riyanshu-256.github.io/Bankist/)
 
 *   ### 🔐 Authentication REST APIs
     *   **Description**: Developed a robust and secure RESTful API using Node.js and Express.js. It integrates JSON Web Tokens (JWT) for efficient authentication and authorization, supporting comprehensive CRUD operations and secure user management.
     *   **Technologies**: Node.js, Express.js, JWT, MongoDB
-    *   [🔗 **View Repository**](https://github.com/Riyanshu-256/Authentication-REST-APIs)
 
 <br>
 
