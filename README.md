@@ -181,44 +181,26 @@ My dedication to continuous learning is reflected in my coursework and competiti
 Here are some of the key projects I've developed, demonstrating my expertise in web development and problem-solving. Each project is a testament to my hands-on approach and dedication to creating functional and engaging applications.
 
 *   ### ✈️ Wanderlust Travel Website
-    <p align="center">
-      <img src="https://via.placeholder.com/600x300?text=Wanderlust+Travel+Website" alt="Wanderlust Travel Website Screenshot" />
-    </p>
     *   **Description**: Developed as part of an IBM Internship, this travel website offers destination exploration, customizable itineraries, and a seamless booking interface with a responsive design. It highlights my ability to craft intuitive user experiences and integrate complex functionalities.
     *   **Technologies**: HTML, CSS, JavaScript
 
 *   ### 🌌 NASA Project (Full-Stack Application)
-    <p align="center">
-      <img src="https://via.placeholder.com/600x300?text=NASA+Project" alt="NASA Project Screenshot" />
-    </p>
     *   **Description**: A full-stack application built to interact with NASA APIs, fetching and displaying astronomical data such as Mars Rover photos and the Astronomy Picture of the Day. The project features a dynamic client-side interface for data exploration and a robust Node.js backend for efficient API request handling and data serving.
     *   **Technologies**: Node.js, Express.js (backend), HTML, CSS, JavaScript, React.js (frontend - assumed based on project structure)
 
 *   ### 🎲 Guess My Number
-    <p align="center">
-      <img src="https://via.placeholder.com/600x300?text=Guess+My+Number" alt="Guess My Number Screenshot" />
-    </p>
     *   **Description**: An interactive number-guessing game built with core JavaScript. This project honed my understanding of DOM manipulation and immediate user feedback, showcasing fundamental front-end logic.
     *   **Technologies**: HTML, CSS, JavaScript
 
 *   ### 🐷 Pig Game
-    <p align="center">
-      <img src="https://via.placeholder.com/600x300?text=Pig+Game" alt="Pig Game Screenshot" />
-    </p>
     *   **Description**: A dynamic two-player dice game implementing complex game logic, state management, and real-time UI updates. This project solidified my ability to manage interactive states effectively and deliver an engaging user experience.
     *   **Technologies**: HTML, CSS, JavaScript
 
 *   ### 🏦 Bankist App
-    <p align="center">
-      <img src="https://via.placeholder.com/600x300?text=Bankist+App" alt="Bankist App Screenshot" />
-    </p>
     *   **Description**: A simulated modern banking application featuring secure user login, seamless account transfers, and robust account closing logic. This project extensively utilized advanced JavaScript features and array methods for efficient data manipulation and enhanced security.
     *   **Technologies**: HTML, CSS, JavaScript
 
 *   ### 🔐 Authentication REST APIs
-    <p align="center">
-      <img src="https://via.placeholder.com/600x300?text=Authentication+REST+APIs" alt="Authentication REST APIs Screenshot" />
-    </p>
     *   **Description**: Developed a robust and secure RESTful API using Node.js and Express.js. It integrates JSON Web Tokens (JWT) for efficient authentication and authorization, supporting comprehensive CRUD operations and secure user management. This project demonstrates my proficiency in building scalable backend solutions.
     *   **Technologies**: Node.js, Express.js, JWT, MongoDB
 
