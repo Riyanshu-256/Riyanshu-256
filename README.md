@@ -157,9 +157,7 @@ My dedication to continuous learning is reflected in my coursework and competiti
         <li>✅ Core Concepts: Focused on mastering Patterns, Loops, Arrays, and Recursion. 🔄</li>
         <li>🧠 Logic Building: Engaged in regular logic-building and problem-solving sessions. 💡</li>
       </ul>
-      <a href="https://www.hackerrank.com/dashboard" target="_blank">🔗
-
-HackerRank Profile</a>
+      <a href="https://www.hackerrank.com/dashboard" target="_blank">🔗HackerRank Profile</a>
     </td>
   </tr>
   
