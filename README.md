@@ -171,7 +171,7 @@ HackerRank Profile</a>
         <li>✔️ Diverse Problems: Successfully tackled 50+ LeetCode problems, mastering patterns in Arrays, Strings, HashMap, and Binary Search to optimize solutions. 🔍</li>
         <li>⏳ Skill Enhancement: Actively practicing Medium & Hard level challenges to enhance problem-solving skills and algorithmic thinking. 💪</li>
       </ul>
-      <a href="https://leetcode.com/Riyanshu-256/" target="_blank">🔗 LeetCode Profile</a>
+      <a href="https://leetcode.com/problemset/" target="_blank">🔗 LeetCode Profile</a>
     </td>
   </tr>
 </table>
