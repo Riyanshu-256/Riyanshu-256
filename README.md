@@ -22,6 +22,7 @@
 - [🏆 Courses & Practice Challenges 🥇](#-courses--practice-challenges-🥇)
 - [🚀 Key Projects 🌟](#-key-projects-🌟)
 - [📊 GitHub Stats & Activity 📈](#-github-stats--activity-📈)
+- [🌟 My Contributions ✨](#-my-contributions-✨)
 - [🎯 My 2024–25 Roadmap 🗺️](#-my-202425-roadmap-%EF%B8%8F)
 - [🤝 Let’s Connect! 👋](#-lets-connect-👋)
 - [💬 Final Words ✨](#-final-words-✨)
@@ -222,6 +223,18 @@ Here are some of the key projects I've developed, demonstrating my expertise in 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riyanshu-256&theme=react-dark" width="100%"/>
 </p>
+
+<br>
+
+---
+<br>
+
+## 🌟 My Contributions ✨
+
+- **Total Contributions (Last Year)**: 1,134
+- **September 2025 Activity**:
+  - Created 200 commits in 8 repositories
+  - Created 3 repositories
 
 <br>
 
