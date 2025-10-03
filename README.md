@@ -187,10 +187,6 @@ Here are some of the key projects I've developed, demonstrating my expertise in 
     *   Description: Developed as part of an IBM Internship, this travel website offers destination exploration, customizable itineraries, and a seamless booking interface with a responsive design. It highlights my ability to craft intuitive user experiences and integrate complex functionalities.
     *   Technologies: HTML, CSS, JavaScript
 
-*   ### 🌌 NASA Project (Full-Stack Application)
-    *   Description: A full-stack application built to interact with NASA APIs, fetching and displaying astronomical data such as Mars Rover photos and the Astronomy Picture of the Day. The project features a dynamic client-side interface for data exploration and a robust Node.js backend for efficient API request handling and data serving.
-    *   Technologies: Node.js, Express.js (backend), HTML, CSS, JavaScript, React.js (frontend - assumed based on project structure)
-
 *   ### 🎲 Guess My Number
     *   Description: An interactive number-guessing game built with core JavaScript. This project honed my understanding of DOM manipulation and immediate user feedback, showcasing fundamental front-end logic.
     *   Technologies: HTML, CSS, JavaScript
