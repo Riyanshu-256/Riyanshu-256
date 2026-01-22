@@ -1,196 +1,175 @@
-<div align="center">
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Hi 👋, I'm Riyanshu Sharma</h1>
+<h3 align="center">
+Backend-Focused Full-Stack Developer | SDE Intern Aspirant (Summer 2026)
+</h3>
 
-# 👋 Hi, I'm Riyanshu Sharma  
-### Backend-Focused Full-Stack Developer | SDE Intern Aspirant (Summer 2026)
+<p align="center">
+🎓 B.Tech CSE @ UCET Hazaribagh &nbsp;•&nbsp;
+📍 Jharkhand, India &nbsp;•&nbsp;
+💼 Backend / SDE Roles
+</p>
 
-🎓 **B.Tech CSE @ UCET Hazaribagh**  
-📍 **Jharkhand, India**  
-💼 **Target Roles:** Backend Engineer · SDE (General)  
-
+<p align="center">
 <img src="https://img.shields.io/badge/Status-Actively%20Seeking%20SDE%20Internships-brightgreen" />
 <img src="https://komarev.com/ghpvc/?username=Riyanshu-256&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a **backend-oriented full-stack developer** who loves building **scalable systems, clean APIs, and real production apps**.  
-As a second-year CSE student, I’ve already built **multiple end-to-end MERN applications**, implemented **secure authentication systems**, and solved **200+ DSA problems**.
+I’m a **backend-oriented full-stack developer** who enjoys building  
+**scalable systems, clean APIs, and production-ready applications**.
 
-I enjoy:
-- Designing **RESTful APIs**
-- Working with **databases & backend logic**
-- Turning ideas into **production-ready systems**
-- Writing **clean, interview-ready code**
+- Built **multiple end-to-end MERN applications**
+- Designed **secure authentication & authorization systems**
+- Solved **200+ DSA problems** (Java & C++)
+- Strong focus on **backend logic, APIs, and data modeling**
 
 ---
 
-## 🧠 Technical Skillset
+## 🧠 Technical Skills
 
 ### ⚙️ Backend & Systems
-- **Node.js, Express.js**
-- REST APIs, MVC Architecture
-- Authentication (JWT, httpOnly cookies, RBAC)
-- API validation, pagination, search & filtering
+- Node.js, Express.js  
+- RESTful APIs, MVC Architecture  
+- JWT Authentication, RBAC, httpOnly cookies  
+
+### 🗄️ Databases
+- MongoDB, Mongoose  
+- Schema design & relationships  
 
 ### 🎨 Frontend
-- React.js, Next.js
-- Tailwind CSS
-- Responsive & accessible UI
+- React.js, Next.js  
+- Tailwind CSS, Responsive UI  
 
-### 🗄️ Database
-- MongoDB, Mongoose
-- Schema design & data modeling
-
-### 🛠️ Tools & DevOps
-- Git & GitHub
-- Vercel (Production Deployments)
-- Postman, VS Code
-
-### 📊 DSA & Problem Solving
-- **Languages:** Java, C++
-- **Solved:** 128+ LeetCode (52 Easy · 67 Medium · 9 Hard)
-- Arrays · Strings · Trees ⭐  
-- Graphs · Dynamic Programming ⚡  
+### 🛠️ Tools
+- Git & GitHub  
+- Vercel, Postman, VS Code  
 
 ---
 
-## 🏆 Featured Projects (Production-Ready)
+## 🏆 Featured Projects
 
-### 🎓 LMS Platform (Flagship Project)
+### 🎓 LMS Platform — *Flagship Project*
 **Full-Stack Learning Management System**
 
-🔗 **Live:** https://lms-platform.vercel.app  
-📂 **Repo:** https://github.com/Riyanshu-256/lms-platform  
+🔗 Live: https://lms-platform.vercel.app  
+📂 Repo: https://github.com/Riyanshu-256/lms-platform  
 
-- Backend-heavy LMS with **role-based access (Student / Teacher)**
-- Designed & implemented **20+ REST APIs**
-- Secure **JWT authentication**, protected routes & dashboards
-- Course enrollment, progress tracking, file uploads
-- Built for scalability with clean backend architecture
+- Role-based access (**Student / Teacher**)
+- **20+ REST APIs** (auth, courses, progress tracking)
+- Secure JWT authentication & protected routes
+- Scalable backend architecture
 
-**Tech:** React · Node.js · Express · MongoDB · JWT · Tailwind CSS
+**Tech:** React · Node · Express · MongoDB · JWT · Tailwind
 
 ---
 
 ### 💕 DevTinder
-**Developer Networking Platform (Tinder-style matching)**
+**Developer Networking Platform**
 
-🔗 **Live:** https://devtinder.vercel.app  
-📂 **Repo:** https://github.com/Riyanshu-256/devtinder  
+🔗 Live: https://devtinder.vercel.app  
+📂 Repo: https://github.com/Riyanshu-256/devtinder  
 
-- Backend logic for **user matching & connections**
-- Secure authentication & protected APIs
+- Backend matching logic & secure APIs
 - Real-time chat using **Socket.io**
 - Infinite scroll, filters & notifications
 
-**Tech:** React · Node.js · Express · MongoDB · Socket.io
+**Tech:** MERN · Socket.io
 
 ---
 
-### 🔭 NASA Mission Control Dashboard
-**NASA Kepler Mission Data Visualization**
+### 🔭 NASA Mission Control
+**NASA Kepler Mission Dashboard**
 
-🔗 **Live:** https://nasa-dashboard.vercel.app  
-📂 **Repo:** https://github.com/Riyanshu-256/nasa-mission  
+🔗 Live: https://nasa-dashboard.vercel.app  
+📂 Repo: https://github.com/Riyanshu-256/nasa-mission  
 
-- Processed large **CSV datasets** from NASA
-- Built APIs for filtering habitable exoplanets
-- Interactive charts & analytics dashboard
+- Processed large **CSV datasets**
+- APIs for filtering habitable exoplanets
+- Interactive charts & analytics
 
-**Tech:** Node.js · Express · MongoDB · React · Chart.js
-
----
-
-### 🍳 ChefMaster
-**Food Recipe & Management Platform**
-
-- Backend APIs for recipes, users & favorites
-- Authentication & database modeling
-- Clean REST design with scalable schema
-
-**Tech:** MERN Stack
+**Tech:** Node · Express · MongoDB · React
 
 ---
 
-### 🌍 Travel Explorer
-**Travel Booking & Discovery Website**
-
-- Responsive frontend + backend integration
-- Optimized load time & user experience
-- Real-world internship project
+### 🍳 Other Projects
+- **ChefMaster** — Food recipe & management platform  
+- **Travel Explorer** — Travel booking & discovery website  
 
 ---
 
 ## 💼 Experience
 
-### **Frontend Developer Intern** — *Edunet Foundation*  
+### Frontend Developer Intern — *Edunet Foundation*  
 **Aug 2025 – Sep 2025**
 
-- Built **Wanderlust Travel Platform** from scratch
-- Delivered pixel-perfect responsive UI
-- Improved page performance by **~40%**
-- Collaborated in a production-like environment
+- Built a complete **travel booking platform**
+- Delivered responsive, pixel-perfect UI
+- Improved performance by ~**40%**
 
 ---
 
-## 📊 DSA & Competitive Coding
+## 📊 DSA & Problem Solving
 
-<div align="center">
-  <a href="https://www.geeksforgeeks.org/user/riyans8254/">
-    <img src="https://img.shields.io/badge/GFG-200%2B-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Riyanshu-256/">
-    <img src="https://img.shields.io/badge/LeetCode-128%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</div>
+- **LeetCode:** 128+ (52 Easy · 67 Medium · 9 Hard)
+- **Languages:** Java, C++
+- Strong in Arrays, Strings, Trees  
+- Comfortable with Graphs & DP  
+
+<p align="center">
+<a href="https://leetcode.com/u/Riyanshu-256/">
+<img src="https://img.shields.io/badge/LeetCode-128%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.geeksforgeeks.org/user/riyans8254/">
+<img src="https://img.shields.io/badge/GFG-200%2B-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Riyanshu-256&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyanshu-256&layout=compact&theme=github_dark&hide_border=true"/>
-</div>
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Riyanshu-256&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyanshu-256&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riyanshu-256&theme=github-dark&hide_border=true"/>
-</div>
-
----
-
-## 🎯 Current Focus (2026 Internship Prep)
-
-✅ MERN Stack Mastery  
-✅ 5+ Production-Ready Projects  
-🔥 Advanced Backend Patterns  
-🔥 System Design Fundamentals  
-🚀 Docker · CI/CD · 300+ DSA  
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Riyanshu-256&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
-## 📫 Let’s Connect
+## 🎯 Current Focus
 
-<div align="center">
-  <a href="https://linkedin.com/in/riyanshu-sharma-b1a733221">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:riyanshusharma02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Riyanshu-256">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-</div>
+- Advanced Backend Patterns  
+- System Design Fundamentals  
+- Docker & CI/CD  
+- 300+ DSA Problems  
 
 ---
 
-<div align="center">
+## 📫 Connect With Me
 
-✨ *Backend-focused. System-driven. Interview-ready.*  
-🚀 **Open to SDE Internships — Summer 2026**
+<p align="center">
+<a href="https://linkedin.com/in/riyanshu-sharma-b1a733221">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:riyanshusharma02@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Riyanshu-256">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
-</div>
+---
+
+<p align="center">
+✨ Backend-focused · System-driven · Interview-ready  
+<br/>
+🚀 Open to SDE Internships — Summer 2026
+</p>
