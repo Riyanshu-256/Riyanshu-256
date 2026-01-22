@@ -31,22 +31,10 @@ I’m a **backend-oriented full-stack developer** who enjoys building
 
 ## 🧠 Technical Skills
 
-### ⚙️ Backend & Systems
-- Node.js, Express.js  
-- RESTful APIs, MVC Architecture  
-- JWT Authentication, RBAC, httpOnly cookies  
-
-### 🗄️ Databases
-- MongoDB, Mongoose  
-- Schema design & relationships  
-
-### 🎨 Frontend
-- React.js, Next.js  
-- Tailwind CSS, Responsive UI  
-
-### 🛠️ Tools
-- Git & GitHub  
-- Vercel, Postman, VS Code  
+### ⚙️ Backend & Systems - Node.js, Express.js, RESTful APIs, MVC Architecture, JWT Authentication, RBAC, httpOnly cookies  
+### 🗄️ Database - MongoDB, Mongoose, Schema design & relationships  
+### 🎨 Frontend - React.js, Next.js, Tailwind CSS, Responsive UI  
+### 🛠️ Tools - Git & GitHub, Vercel, Postman, VS Code  
 
 ---
 
@@ -55,8 +43,8 @@ I’m a **backend-oriented full-stack developer** who enjoys building
 ### 🎓 LMS Platform — *Flagship Project*
 **Full-Stack Learning Management System**
 
-🔗 Live: https://lms-platform.vercel.app  
-📂 Repo: https://github.com/Riyanshu-256/lms-platform  
+🔗 Live: https://lms-elearning-platform.vercel.app/ 
+📂 Repo: https://github.com/Riyanshu-256/lms-elearning-platform 
 
 - Role-based access (**Student / Teacher**)
 - **20+ REST APIs** (auth, courses, progress tracking)
@@ -70,8 +58,8 @@ I’m a **backend-oriented full-stack developer** who enjoys building
 ### 💕 DevTinder
 **Developer Networking Platform**
 
-🔗 Live: https://devtinder.vercel.app  
-📂 Repo: https://github.com/Riyanshu-256/devtinder  
+🔗 Live: https://dev-connect-flax.vercel.app/ 
+📂 Repo: https://github.com/Riyanshu-256/DevConnect
 
 - Backend matching logic & secure APIs
 - Real-time chat using **Socket.io**
@@ -84,8 +72,7 @@ I’m a **backend-oriented full-stack developer** who enjoys building
 ### 🔭 NASA Mission Control
 **NASA Kepler Mission Dashboard**
 
-🔗 Live: https://nasa-dashboard.vercel.app  
-📂 Repo: https://github.com/Riyanshu-256/nasa-mission  
+📂 Repo: https://github.com/Riyanshu-256/nasa-mission-control
 
 - Processed large **CSV datasets**
 - APIs for filtering habitable exoplanets
@@ -96,8 +83,8 @@ I’m a **backend-oriented full-stack developer** who enjoys building
 ---
 
 ### 🍳 Other Projects
-- **ChefMaster** — Food recipe & management platform  
-- **Travel Explorer** — Travel booking & discovery website  
+- **ChefMaster** — Food recipe & management platform - https://chefmaster-food-app.vercel.app/
+- **Travel Explorer** — Travel booking & discovery website - https://sourav-357.github.io/Travel-Website/
 
 ---
 
