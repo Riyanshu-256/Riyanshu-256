@@ -86,7 +86,7 @@ I’m a **backend-oriented full-stack developer** who enjoys building
 
 ### 🍳 Other Projects
 - **ChefMaster** — Food recipe & management platform - https://chefmaster-food-app.vercel.app/
-- **Travel Explorer** — Travel booking & discovery website - https://sourav-357.github.io/Travel-Website/
+- **Travel Explorer** — Travel booking & discovery website - https://travel-explorer-website-git-main-riyanshu-256s-projects.vercel.app/
 
 ---
 
